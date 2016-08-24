@@ -1,3 +1,6 @@
 yes
 no
 maybe so
+Yes or no
+Maybe so
+is not an option
